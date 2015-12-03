@@ -1,3 +1,8 @@
+<html>
+<head>
+</head>
+
+<body>
 <?php 
 
 	echo $_GET['Name'];
@@ -8,3 +13,5 @@
 ?>
 
  <a href="githubseite.php">Zur&uumlck;</a>
+ </body>
+ </html>
